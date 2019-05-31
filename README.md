@@ -9,5 +9,3 @@ http://localhost:8200/ui
 
 token: myroot
 ```
-
-* enable pki manager
