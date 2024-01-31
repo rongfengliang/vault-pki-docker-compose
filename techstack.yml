@@ -1,0 +1,34 @@
+repo_name: rongfengliang/vault-pki-docker-compose
+report_id: e6c2ab1bde3ac6ac87ed8271b55983a5
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T08:02:50+00:00'
+requested_by: rongfengliang
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rongfengliang/vault-pki-docker-compose
+  detection_source: Repo Metadata
+- name: Vault
+  description: Secure, store, and tightly control access to tokens, passwords, certificates,
+    API keys, and other secrets in modern computing
+  website_url: https://www.vaultproject.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Secrets Management
+  image_url: https://img.stackshare.io/service/2905/vault.png
+  detection_source_url: https://github.com/rongfengliang/vault-pki-docker-compose/blob/master/docker-compose.yaml
+  detection_source: docker-compose.yaml
+  last_updated_by: rongfengliang
+  last_updated_on: 2019-05-29 12:53:10.000000000 Z
